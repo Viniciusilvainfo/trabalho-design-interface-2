@@ -31,12 +31,8 @@ th, td {
 }
 
 th {
-    background-color: #4CAF50;
+    background-color: green;
     color: white;
-}
-
-#menuToggle {
-    margin-top: -100px !important;
 }
 
 tr {
